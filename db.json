@@ -1,531 +1,347 @@
-[
-  {
-    "name": "New Year\u2019s Day",
-    "type": "Public holidays",
-    "date": 1672531200000
-  },
-  {
-    "name": "Day after New Year\u2019s Day",
-    "type": "Public holidays",
-    "date": 1672617600000
-  },
-  {
-    "name": "Chinese New Year",
-    "type": "Public holidays",
-    "date": 1674345600000
-  },
-  {
-    "name": "Chinese New Year",
-    "type": "Public holidays",
-    "date": 1674432000000
-  },
-  {
-    "name": "Day after Chinese New Year",
-    "type": "Public holidays",
-    "date": 1674518400000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1678492800000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1678579200000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1678665600000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1678752000000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1678838400000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1678924800000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1679011200000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1679097600000
-  },
-  {
-    "name": "Term 1 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1679184000000
-  },
-  { "name": "Good Friday", "type": "Public holidays", "date": 1680825600000 },
-  {
-    "name": "Hari Raya Puasa",
-    "type": "Public holidays",
-    "date": 1682121600000
-  },
-  {
-    "name": "Day off-in-lieu for Hari Raya Puasa",
-    "type": "School holidays",
-    "date": 1682294400000
-  },
-  { "name": "Labour Day", "type": "Public holidays", "date": 1682899200000 },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685145600000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685232000000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685318400000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685404800000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685491200000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685577600000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685664000000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685750400000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685836800000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1685923200000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686009600000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686096000000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686182400000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686268800000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686355200000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686441600000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686528000000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686614400000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686700800000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686787200000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686873600000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1686960000000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1687046400000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1687132800000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1687219200000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1687305600000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1687392000000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1687478400000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1687564800000
-  },
-  {
-    "name": "Term 2 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1687651200000
-  },
-  { "name": "Vesak Day", "type": "Public holidays", "date": 1685664000000 },
-  {
-    "name": "Hari Raya Haji",
-    "type": "Public holidays",
-    "date": 1687996800000
-  },
-  { "name": "Youth Day", "type": "School holidays", "date": 1688256000000 },
-  {
-    "name": "Day after Youth Day",
-    "type": "School holidays",
-    "date": 1688342400000
-  },
-  { "name": "National Day", "type": "Public holidays", "date": 1691539200000 },
-  {
-    "name": "Day after National Day",
-    "type": "School holidays",
-    "date": 1691625600000
-  },
-  { "name": "Polling Day", "type": "Public holidays", "date": 1693526400000 },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1693612800000
-  },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1693699200000
-  },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1693785600000
-  },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1693872000000
-  },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1693958400000
-  },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1694044800000
-  },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1694131200000
-  },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1694217600000
-  },
-  {
-    "name": "Term 3 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1694304000000
-  },
-  { "name": "Teachers' Day", "type": "School holidays", "date": 1694390400000 },
-  {
-    "name": "Children's Day (MK, Primary)",
-    "type": "School holidays",
-    "date": 1696550400000
-  },
-  { "name": "Deepavali", "type": "Public holidays", "date": 1699747200000 },
-  {
-    "name": "Day after Deepavali",
-    "type": "Public holidays",
-    "date": 1699833600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700265600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700352000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700438400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700524800000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700611200000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700697600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700784000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700870400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1700956800000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701043200000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701129600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701216000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701302400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701388800000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701475200000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701561600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701648000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701734400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701820800000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701907200000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1701993600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702080000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702166400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702252800000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702339200000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702425600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702512000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702598400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702684800000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702771200000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702857600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1702944000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703030400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703116800000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703203200000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703289600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703376000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703462400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703548800000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703635200000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703721600000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703808000000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703894400000
-  },
-  {
-    "name": "Term 4 school holidays (MK, Primary & Secondary)",
-    "type": "School holidays",
-    "date": 1703980800000
-  },
-  { "name": "Christmas", "type": "Public holidays", "date": 1703462400000 }
-]
+{
+  "name": {
+    "0": "New Year\u2019s Day",
+    "1": "Day after New Year\u2019s Day",
+    "2": "Chinese New Year",
+    "3": "Chinese New Year",
+    "4": "Day after Chinese New Year",
+    "5": "Term 1 school holidays (MK, Primary & Secondary)",
+    "6": "Term 1 school holidays (MK, Primary & Secondary)",
+    "7": "Term 1 school holidays (MK, Primary & Secondary)",
+    "8": "Term 1 school holidays (MK, Primary & Secondary)",
+    "9": "Term 1 school holidays (MK, Primary & Secondary)",
+    "10": "Term 1 school holidays (MK, Primary & Secondary)",
+    "11": "Term 1 school holidays (MK, Primary & Secondary)",
+    "12": "Term 1 school holidays (MK, Primary & Secondary)",
+    "13": "Term 1 school holidays (MK, Primary & Secondary)",
+    "14": "Good Friday",
+    "15": "Hari Raya Puasa",
+    "16": "Day off-in-lieu for Hari Raya Puasa",
+    "17": "Labour Day",
+    "18": "Term 2 school holidays (MK, Primary & Secondary)",
+    "19": "Term 2 school holidays (MK, Primary & Secondary)",
+    "20": "Term 2 school holidays (MK, Primary & Secondary)",
+    "21": "Term 2 school holidays (MK, Primary & Secondary)",
+    "22": "Term 2 school holidays (MK, Primary & Secondary)",
+    "23": "Term 2 school holidays (MK, Primary & Secondary)",
+    "24": "Term 2 school holidays (MK, Primary & Secondary)",
+    "25": "Term 2 school holidays (MK, Primary & Secondary)",
+    "26": "Term 2 school holidays (MK, Primary & Secondary)",
+    "27": "Term 2 school holidays (MK, Primary & Secondary)",
+    "28": "Term 2 school holidays (MK, Primary & Secondary)",
+    "29": "Term 2 school holidays (MK, Primary & Secondary)",
+    "30": "Term 2 school holidays (MK, Primary & Secondary)",
+    "31": "Term 2 school holidays (MK, Primary & Secondary)",
+    "32": "Term 2 school holidays (MK, Primary & Secondary)",
+    "33": "Term 2 school holidays (MK, Primary & Secondary)",
+    "34": "Term 2 school holidays (MK, Primary & Secondary)",
+    "35": "Term 2 school holidays (MK, Primary & Secondary)",
+    "36": "Term 2 school holidays (MK, Primary & Secondary)",
+    "37": "Term 2 school holidays (MK, Primary & Secondary)",
+    "38": "Term 2 school holidays (MK, Primary & Secondary)",
+    "39": "Term 2 school holidays (MK, Primary & Secondary)",
+    "40": "Term 2 school holidays (MK, Primary & Secondary)",
+    "41": "Term 2 school holidays (MK, Primary & Secondary)",
+    "42": "Term 2 school holidays (MK, Primary & Secondary)",
+    "43": "Term 2 school holidays (MK, Primary & Secondary)",
+    "44": "Term 2 school holidays (MK, Primary & Secondary)",
+    "45": "Term 2 school holidays (MK, Primary & Secondary)",
+    "46": "Term 2 school holidays (MK, Primary & Secondary)",
+    "47": "Term 2 school holidays (MK, Primary & Secondary)",
+    "48": "Vesak Day",
+    "49": "Hari Raya Haji",
+    "50": "Youth Day",
+    "51": "Day after Youth Day",
+    "52": "National Day",
+    "53": "Day after National Day",
+    "54": "Polling Day",
+    "55": "Term 3 school holidays (MK, Primary & Secondary)",
+    "56": "Term 3 school holidays (MK, Primary & Secondary)",
+    "57": "Term 3 school holidays (MK, Primary & Secondary)",
+    "58": "Term 3 school holidays (MK, Primary & Secondary)",
+    "59": "Term 3 school holidays (MK, Primary & Secondary)",
+    "60": "Term 3 school holidays (MK, Primary & Secondary)",
+    "61": "Term 3 school holidays (MK, Primary & Secondary)",
+    "62": "Term 3 school holidays (MK, Primary & Secondary)",
+    "63": "Term 3 school holidays (MK, Primary & Secondary)",
+    "64": "Teachers' Day",
+    "65": "Children's Day (MK, Primary)",
+    "66": "Deepavali",
+    "67": "Day after Deepavali",
+    "68": "Term 4 school holidays (MK, Primary & Secondary)",
+    "69": "Term 4 school holidays (MK, Primary & Secondary)",
+    "70": "Term 4 school holidays (MK, Primary & Secondary)",
+    "71": "Term 4 school holidays (MK, Primary & Secondary)",
+    "72": "Term 4 school holidays (MK, Primary & Secondary)",
+    "73": "Term 4 school holidays (MK, Primary & Secondary)",
+    "74": "Term 4 school holidays (MK, Primary & Secondary)",
+    "75": "Term 4 school holidays (MK, Primary & Secondary)",
+    "76": "Term 4 school holidays (MK, Primary & Secondary)",
+    "77": "Term 4 school holidays (MK, Primary & Secondary)",
+    "78": "Term 4 school holidays (MK, Primary & Secondary)",
+    "79": "Term 4 school holidays (MK, Primary & Secondary)",
+    "80": "Term 4 school holidays (MK, Primary & Secondary)",
+    "81": "Term 4 school holidays (MK, Primary & Secondary)",
+    "82": "Term 4 school holidays (MK, Primary & Secondary)",
+    "83": "Term 4 school holidays (MK, Primary & Secondary)",
+    "84": "Term 4 school holidays (MK, Primary & Secondary)",
+    "85": "Term 4 school holidays (MK, Primary & Secondary)",
+    "86": "Term 4 school holidays (MK, Primary & Secondary)",
+    "87": "Term 4 school holidays (MK, Primary & Secondary)",
+    "88": "Term 4 school holidays (MK, Primary & Secondary)",
+    "89": "Term 4 school holidays (MK, Primary & Secondary)",
+    "90": "Term 4 school holidays (MK, Primary & Secondary)",
+    "91": "Term 4 school holidays (MK, Primary & Secondary)",
+    "92": "Term 4 school holidays (MK, Primary & Secondary)",
+    "93": "Term 4 school holidays (MK, Primary & Secondary)",
+    "94": "Term 4 school holidays (MK, Primary & Secondary)",
+    "95": "Term 4 school holidays (MK, Primary & Secondary)",
+    "96": "Term 4 school holidays (MK, Primary & Secondary)",
+    "97": "Term 4 school holidays (MK, Primary & Secondary)",
+    "98": "Term 4 school holidays (MK, Primary & Secondary)",
+    "99": "Term 4 school holidays (MK, Primary & Secondary)",
+    "100": "Term 4 school holidays (MK, Primary & Secondary)",
+    "101": "Term 4 school holidays (MK, Primary & Secondary)",
+    "102": "Term 4 school holidays (MK, Primary & Secondary)",
+    "103": "Term 4 school holidays (MK, Primary & Secondary)",
+    "104": "Term 4 school holidays (MK, Primary & Secondary)",
+    "105": "Term 4 school holidays (MK, Primary & Secondary)",
+    "106": "Term 4 school holidays (MK, Primary & Secondary)",
+    "107": "Term 4 school holidays (MK, Primary & Secondary)",
+    "108": "Term 4 school holidays (MK, Primary & Secondary)",
+    "109": "Term 4 school holidays (MK, Primary & Secondary)",
+    "110": "Term 4 school holidays (MK, Primary & Secondary)",
+    "111": "Term 4 school holidays (MK, Primary & Secondary)",
+    "112": "Christmas"
+  },
+  "type": {
+    "0": "Public holidays",
+    "1": "Public holidays",
+    "2": "Public holidays",
+    "3": "Public holidays",
+    "4": "Public holidays",
+    "5": "School holidays",
+    "6": "School holidays",
+    "7": "School holidays",
+    "8": "School holidays",
+    "9": "School holidays",
+    "10": "School holidays",
+    "11": "School holidays",
+    "12": "School holidays",
+    "13": "School holidays",
+    "14": "Public holidays",
+    "15": "Public holidays",
+    "16": "School holidays",
+    "17": "Public holidays",
+    "18": "School holidays",
+    "19": "School holidays",
+    "20": "School holidays",
+    "21": "School holidays",
+    "22": "School holidays",
+    "23": "School holidays",
+    "24": "School holidays",
+    "25": "School holidays",
+    "26": "School holidays",
+    "27": "School holidays",
+    "28": "School holidays",
+    "29": "School holidays",
+    "30": "School holidays",
+    "31": "School holidays",
+    "32": "School holidays",
+    "33": "School holidays",
+    "34": "School holidays",
+    "35": "School holidays",
+    "36": "School holidays",
+    "37": "School holidays",
+    "38": "School holidays",
+    "39": "School holidays",
+    "40": "School holidays",
+    "41": "School holidays",
+    "42": "School holidays",
+    "43": "School holidays",
+    "44": "School holidays",
+    "45": "School holidays",
+    "46": "School holidays",
+    "47": "School holidays",
+    "48": "Public holidays",
+    "49": "Public holidays",
+    "50": "School holidays",
+    "51": "School holidays",
+    "52": "Public holidays",
+    "53": "School holidays",
+    "54": "Public holidays",
+    "55": "School holidays",
+    "56": "School holidays",
+    "57": "School holidays",
+    "58": "School holidays",
+    "59": "School holidays",
+    "60": "School holidays",
+    "61": "School holidays",
+    "62": "School holidays",
+    "63": "School holidays",
+    "64": "School holidays",
+    "65": "School holidays",
+    "66": "Public holidays",
+    "67": "Public holidays",
+    "68": "School holidays",
+    "69": "School holidays",
+    "70": "School holidays",
+    "71": "School holidays",
+    "72": "School holidays",
+    "73": "School holidays",
+    "74": "School holidays",
+    "75": "School holidays",
+    "76": "School holidays",
+    "77": "School holidays",
+    "78": "School holidays",
+    "79": "School holidays",
+    "80": "School holidays",
+    "81": "School holidays",
+    "82": "School holidays",
+    "83": "School holidays",
+    "84": "School holidays",
+    "85": "School holidays",
+    "86": "School holidays",
+    "87": "School holidays",
+    "88": "School holidays",
+    "89": "School holidays",
+    "90": "School holidays",
+    "91": "School holidays",
+    "92": "School holidays",
+    "93": "School holidays",
+    "94": "School holidays",
+    "95": "School holidays",
+    "96": "School holidays",
+    "97": "School holidays",
+    "98": "School holidays",
+    "99": "School holidays",
+    "100": "School holidays",
+    "101": "School holidays",
+    "102": "School holidays",
+    "103": "School holidays",
+    "104": "School holidays",
+    "105": "School holidays",
+    "106": "School holidays",
+    "107": "School holidays",
+    "108": "School holidays",
+    "109": "School holidays",
+    "110": "School holidays",
+    "111": "School holidays",
+    "112": "Public holidays"
+  },
+  "date": {
+    "0": "2023-01-01",
+    "1": "2023-01-02",
+    "2": "2023-01-22",
+    "3": "2023-01-23",
+    "4": "2023-01-24",
+    "5": "2023-03-11",
+    "6": "2023-03-12",
+    "7": "2023-03-13",
+    "8": "2023-03-14",
+    "9": "2023-03-15",
+    "10": "2023-03-16",
+    "11": "2023-03-17",
+    "12": "2023-03-18",
+    "13": "2023-03-19",
+    "14": "2023-04-07",
+    "15": "2023-04-22",
+    "16": "2023-04-24",
+    "17": "2023-05-01",
+    "18": "2023-05-27",
+    "19": "2023-05-28",
+    "20": "2023-05-29",
+    "21": "2023-05-30",
+    "22": "2023-05-31",
+    "23": "2023-06-01",
+    "24": "2023-06-02",
+    "25": "2023-06-03",
+    "26": "2023-06-04",
+    "27": "2023-06-05",
+    "28": "2023-06-06",
+    "29": "2023-06-07",
+    "30": "2023-06-08",
+    "31": "2023-06-09",
+    "32": "2023-06-10",
+    "33": "2023-06-11",
+    "34": "2023-06-12",
+    "35": "2023-06-13",
+    "36": "2023-06-14",
+    "37": "2023-06-15",
+    "38": "2023-06-16",
+    "39": "2023-06-17",
+    "40": "2023-06-18",
+    "41": "2023-06-19",
+    "42": "2023-06-20",
+    "43": "2023-06-21",
+    "44": "2023-06-22",
+    "45": "2023-06-23",
+    "46": "2023-06-24",
+    "47": "2023-06-25",
+    "48": "2023-06-02",
+    "49": "2023-06-29",
+    "50": "2023-07-02",
+    "51": "2023-07-03",
+    "52": "2023-08-09",
+    "53": "2023-08-10",
+    "54": "2023-09-01",
+    "55": "2023-09-02",
+    "56": "2023-09-03",
+    "57": "2023-09-04",
+    "58": "2023-09-05",
+    "59": "2023-09-06",
+    "60": "2023-09-07",
+    "61": "2023-09-08",
+    "62": "2023-09-09",
+    "63": "2023-09-10",
+    "64": "2023-09-11",
+    "65": "2023-10-06",
+    "66": "2023-11-12",
+    "67": "2023-11-13",
+    "68": "2023-11-18",
+    "69": "2023-11-19",
+    "70": "2023-11-20",
+    "71": "2023-11-21",
+    "72": "2023-11-22",
+    "73": "2023-11-23",
+    "74": "2023-11-24",
+    "75": "2023-11-25",
+    "76": "2023-11-26",
+    "77": "2023-11-27",
+    "78": "2023-11-28",
+    "79": "2023-11-29",
+    "80": "2023-11-30",
+    "81": "2023-12-01",
+    "82": "2023-12-02",
+    "83": "2023-12-03",
+    "84": "2023-12-04",
+    "85": "2023-12-05",
+    "86": "2023-12-06",
+    "87": "2023-12-07",
+    "88": "2023-12-08",
+    "89": "2023-12-09",
+    "90": "2023-12-10",
+    "91": "2023-12-11",
+    "92": "2023-12-12",
+    "93": "2023-12-13",
+    "94": "2023-12-14",
+    "95": "2023-12-15",
+    "96": "2023-12-16",
+    "97": "2023-12-17",
+    "98": "2023-12-18",
+    "99": "2023-12-19",
+    "100": "2023-12-20",
+    "101": "2023-12-21",
+    "102": "2023-12-22",
+    "103": "2023-12-23",
+    "104": "2023-12-24",
+    "105": "2023-12-25",
+    "106": "2023-12-26",
+    "107": "2023-12-27",
+    "108": "2023-12-28",
+    "109": "2023-12-29",
+    "110": "2023-12-30",
+    "111": "2023-12-31",
+    "112": "2023-12-25"
+  }
+}
